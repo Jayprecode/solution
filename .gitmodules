@@ -1,0 +1,6 @@
+[submodule "fibonacci-add-even"]
+	path = fibonacci-add-even
+	url = https://github.com/Jayprecode/fibonacci-add-even.git
+[submodule "crypto-widget"]
+	path = crypto-widget
+	url = https://github.com/Jayprecode/crypto-widget.git
